@@ -1,3 +1,3 @@
-# front end project Library
+# front end Library project
 
 made with: react
